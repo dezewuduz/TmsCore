@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\bin\Debug\net10.0\StudentEnrollmentApp.exe
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\bin\Debug\net10.0\StudentEnrollmentApp.deps.json
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\bin\Debug\net10.0\StudentEnrollmentApp.runtimeconfig.json
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\bin\Debug\net10.0\StudentEnrollmentApp.dll
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\bin\Debug\net10.0\StudentEnrollmentApp.pdb
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.dll
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\refint\StudentEnrollmentApp.dll
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.pdb
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\StudentEnrollmentApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\Senseation-1\StudentEnrollmentApp\obj\Debug\net10.0\ref\StudentEnrollmentApp.dll
